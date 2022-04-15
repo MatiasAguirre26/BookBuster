@@ -16,4 +16,4 @@ En caso de por algun motivo los mails no funcionen, se pueden registrar(el rol p
  https://trello.com/b/BhqwBW3Y/proyecto
 
 # DashBoard 
-https://github.com/Ema-nunez/grupo11_bookbuster_Dashboard
+https://github.com/MatiasAguirre26/Dashboard_BookBuster
